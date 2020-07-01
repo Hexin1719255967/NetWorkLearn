@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore", "NetCore\NetCore.csproj", "{C20549C8-E5AB-4A69-81CD-5549EE824A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpServer", "SpServer\SpServer.csproj", "{10B69934-07CF-4C5F-BCA5-B5977B457E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProtocol", "DataProtolcol\DataProtocol.csproj", "{BF515EF0-AFD9-4C16-8999-BC64A3061D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20549C8-E5AB-4A69-81CD-5549EE824A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20549C8-E5AB-4A69-81CD-5549EE824A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20549C8-E5AB-4A69-81CD-5549EE824A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20549C8-E5AB-4A69-81CD-5549EE824A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B69934-07CF-4C5F-BCA5-B5977B457E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B69934-07CF-4C5F-BCA5-B5977B457E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B69934-07CF-4C5F-BCA5-B5977B457E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B69934-07CF-4C5F-BCA5-B5977B457E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF515EF0-AFD9-4C16-8999-BC64A3061D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF515EF0-AFD9-4C16-8999-BC64A3061D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF515EF0-AFD9-4C16-8999-BC64A3061D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF515EF0-AFD9-4C16-8999-BC64A3061D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5671B270-B29A-49E4-B349-39039CFF4637}
+	EndGlobalSection
+EndGlobal

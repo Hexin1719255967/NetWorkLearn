@@ -1,0 +1,17 @@
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\bin\Debug\DataProtocol.dll
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\bin\Debug\DataProtocol.pdb
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\obj\Debug\DataProtocol.csproj.CoreCompileInputs.cache
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\obj\Debug\DataProtocol.dll
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\obj\Debug\DataProtocol.pdb
+C:\Users\PC01\Desktop\201912301409510_84191\SpServer\DataProtolcol\bin\Debug\DataProtocol.dll
+C:\Users\PC01\Desktop\201912301409510_84191\SpServer\DataProtolcol\bin\Debug\DataProtocol.pdb
+C:\Users\PC01\Desktop\201912301409510_84191\SpServer\DataProtolcol\obj\Debug\DataProtocol.csprojAssemblyReference.cache
+C:\Users\PC01\Desktop\201912301409510_84191\SpServer\DataProtolcol\obj\Debug\DataProtocol.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Desktop\201912301409510_84191\SpServer\DataProtolcol\obj\Debug\DataProtocol.dll
+C:\Users\PC01\Desktop\201912301409510_84191\SpServer\DataProtolcol\obj\Debug\DataProtocol.pdb
+E:\HexinResources\SpServer\DataProtolcol\bin\Debug\DataProtocol.dll
+E:\HexinResources\SpServer\DataProtolcol\bin\Debug\DataProtocol.pdb
+E:\HexinResources\SpServer\DataProtolcol\obj\Debug\DataProtocol.csprojAssemblyReference.cache
+E:\HexinResources\SpServer\DataProtolcol\obj\Debug\DataProtocol.csproj.CoreCompileInputs.cache
+E:\HexinResources\SpServer\DataProtolcol\obj\Debug\DataProtocol.dll
+E:\HexinResources\SpServer\DataProtolcol\obj\Debug\DataProtocol.pdb

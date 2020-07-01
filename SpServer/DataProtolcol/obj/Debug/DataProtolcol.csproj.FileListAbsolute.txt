@@ -1,0 +1,6 @@
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\bin\Debug\DataProtolcol.dll
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\bin\Debug\DataProtolcol.pdb
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\obj\Debug\DataProtolcol.csprojAssemblyReference.cache
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\obj\Debug\DataProtolcol.csproj.CoreCompileInputs.cache
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\obj\Debug\DataProtolcol.dll
+I:\MyTutorials\Projects\ARcoreHoloSp\Tutorials\SpServer\DataProtolcol\obj\Debug\DataProtolcol.pdb
