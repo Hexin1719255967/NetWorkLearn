@@ -62,13 +62,13 @@ public class UnityNetWorkManager : MonoBehaviour
         byte[] message = model.Message;
         int messageLength = message == null ? 0 : message.Length;
         byte[] len = BitConverter.GetBytes(messageLength);
-        //消息总长度=message的长度+消息类型1+请求类型1+消息长度字节4
+        //消息总长度=message包的长度+消息类型1+请求类型1+消息长度字节4
         byte[] buffer = new byte[messageLength + 2 + 4];
         //赋值消息长度
         Buffer.BlockCopy(len, 0, buffer, 0, 4);
         //赋值消息类型和请求类型
         byte[] code = new byte[2] { model.Type, model.Request };
-        Buffer.BlockCopy(len, 0, buffer, 4, 2);
+        Buffer.BlockCopy(code, 0, buffer, 4, 2);
         //赋值消息包
         if (message!=null)
         {

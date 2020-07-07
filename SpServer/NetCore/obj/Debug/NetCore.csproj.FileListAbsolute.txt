@@ -22,3 +22,9 @@ F:\GitHub\NetWorkLearn\SpServer\NetCore\obj\Debug\NetCore.csprojAssemblyReferenc
 F:\GitHub\NetWorkLearn\SpServer\NetCore\obj\Debug\NetCore.csproj.CoreCompileInputs.cache
 F:\GitHub\NetWorkLearn\SpServer\NetCore\obj\Debug\NetCore.dll
 F:\GitHub\NetWorkLearn\SpServer\NetCore\obj\Debug\NetCore.pdb
+F:\Git\NetWorkLearn\SpServer\NetCore\bin\Debug\NetCore.dll
+F:\Git\NetWorkLearn\SpServer\NetCore\bin\Debug\NetCore.pdb
+F:\Git\NetWorkLearn\SpServer\NetCore\obj\Debug\NetCore.csprojAssemblyReference.cache
+F:\Git\NetWorkLearn\SpServer\NetCore\obj\Debug\NetCore.csproj.CoreCompileInputs.cache
+F:\Git\NetWorkLearn\SpServer\NetCore\obj\Debug\NetCore.dll
+F:\Git\NetWorkLearn\SpServer\NetCore\obj\Debug\NetCore.pdb

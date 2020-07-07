@@ -46,3 +46,15 @@ F:\GitHub\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.csproj.CoreCompileIn
 F:\GitHub\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.csproj.CopyComplete
 F:\GitHub\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.exe
 F:\GitHub\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.pdb
+F:\Git\NetWorkLearn\SpServer\SpServer\bin\Debug\SpServer.exe.config
+F:\Git\NetWorkLearn\SpServer\SpServer\bin\Debug\SpServer.exe
+F:\Git\NetWorkLearn\SpServer\SpServer\bin\Debug\SpServer.pdb
+F:\Git\NetWorkLearn\SpServer\SpServer\bin\Debug\DataProtocol.dll
+F:\Git\NetWorkLearn\SpServer\SpServer\bin\Debug\NetCore.dll
+F:\Git\NetWorkLearn\SpServer\SpServer\bin\Debug\DataProtocol.pdb
+F:\Git\NetWorkLearn\SpServer\SpServer\bin\Debug\NetCore.pdb
+F:\Git\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.csprojAssemblyReference.cache
+F:\Git\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.csproj.CoreCompileInputs.cache
+F:\Git\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.csproj.CopyComplete
+F:\Git\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.exe
+F:\Git\NetWorkLearn\SpServer\SpServer\obj\Debug\SpServer.pdb

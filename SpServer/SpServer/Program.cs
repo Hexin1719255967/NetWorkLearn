@@ -15,6 +15,7 @@ namespace SpServer
             int port = 6650;
             SocketServerManager server = new SocketServerManager();
             server.StartServer(maxclient, port);
+
             Console.ReadLine();
         }
     }

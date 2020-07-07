@@ -24,7 +24,7 @@ namespace NetCore
         public SocketServer(AbsHandlerCenter center)
         {
             handlerCenter = center;
-            server = new Socket(AddressFamily.InterNetwork,SocketType.Stream,ProtocolType.Tcp);
+            server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
         }
 
         public void Start(int max,int port)
